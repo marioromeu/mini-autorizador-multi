@@ -1,0 +1,11 @@
+br/com/itads/miniauth/commons/responses/TransactionResponse.class
+br/com/itads/miniauth/commons/responses/CardResponse.class
+br/com/itads/miniauth/commons/util/MiniAuthUtils.class
+br/com/itads/miniauth/commons/exception/CardAlreadyExists.class
+br/com/itads/miniauth/commons/responses/CardResponse$CardResponseBuilder.class
+br/com/itads/miniauth/commons/dto/CardDTO.class
+br/com/itads/miniauth/commons/dto/TransactionDTO.class
+br/com/itads/miniauth/commons/exception/CardNotFoundException.class
+br/com/itads/miniauth/commons/enums/TransactionEnum.class
+br/com/itads/miniauth/commons/dto/CardDTO$CardDTOBuilder.class
+br/com/itads/miniauth/commons/exception/TransactionNotAllowedException.class

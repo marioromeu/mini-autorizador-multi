@@ -1,0 +1,9 @@
+/home/marioromeu/git-vr/mini-autorizador/commons/src/main/java/br/com/itads/miniauth/commons/exception/CardAlreadyExists.java
+/home/marioromeu/git-vr/mini-autorizador/commons/src/main/java/br/com/itads/miniauth/commons/exception/CardNotFoundException.java
+/home/marioromeu/git-vr/mini-autorizador/commons/src/main/java/br/com/itads/miniauth/commons/responses/CardResponse.java
+/home/marioromeu/git-vr/mini-autorizador/commons/src/main/java/br/com/itads/miniauth/commons/enums/TransactionEnum.java
+/home/marioromeu/git-vr/mini-autorizador/commons/src/main/java/br/com/itads/miniauth/commons/exception/TransactionNotAllowedException.java
+/home/marioromeu/git-vr/mini-autorizador/commons/src/main/java/br/com/itads/miniauth/commons/dto/TransactionDTO.java
+/home/marioromeu/git-vr/mini-autorizador/commons/src/main/java/br/com/itads/miniauth/commons/responses/TransactionResponse.java
+/home/marioromeu/git-vr/mini-autorizador/commons/src/main/java/br/com/itads/miniauth/commons/util/MiniAuthUtils.java
+/home/marioromeu/git-vr/mini-autorizador/commons/src/main/java/br/com/itads/miniauth/commons/dto/CardDTO.java

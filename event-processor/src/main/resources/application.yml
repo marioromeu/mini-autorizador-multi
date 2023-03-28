@@ -1,0 +1,33 @@
+server:
+  port: 8080
+    
+spring:
+  application:
+    name: events-processor
+    
+feign:
+  httpclient:
+    max-connections: 200
+    max-connections-per-route: 200
+    disable-ssl-validation: true
+    enabled: false
+  okhttp:
+    enabled: true
+    
+eureka:
+  client:
+    service-url:
+      defaultZone: ${EUREKA_URI:http://localhost:8761/eureka}    
+
+logging:
+  level:
+    com:
+      netflix:
+        eureka: DEBUG
+        discovery: DEBUG
+
+springfox:
+  documentation:
+    swagger:
+      v2:
+        path: /api-docs

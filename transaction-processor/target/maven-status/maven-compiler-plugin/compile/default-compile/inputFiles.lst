@@ -1,0 +1,7 @@
+/home/marioromeu/git-vr/mini-autorizador/transaction-processor/src/main/java/br/com/itads/processor/transaction/services/impl/TransactionServiceImpl.java
+/home/marioromeu/git-vr/mini-autorizador/transaction-processor/src/main/java/br/com/itads/processor/transaction/services/impl/CardServiceImpl.java
+/home/marioromeu/git-vr/mini-autorizador/transaction-processor/src/main/java/br/com/itads/processor/transaction/repository/CardRepository.java
+/home/marioromeu/git-vr/mini-autorizador/transaction-processor/src/main/java/br/com/itads/processor/transaction/TransactionProcessorApplication.java
+/home/marioromeu/git-vr/mini-autorizador/transaction-processor/src/main/java/br/com/itads/processor/transaction/model/Card.java
+/home/marioromeu/git-vr/mini-autorizador/transaction-processor/src/main/java/br/com/itads/processor/transaction/services/interfaces/TransactionService.java
+/home/marioromeu/git-vr/mini-autorizador/transaction-processor/src/main/java/br/com/itads/processor/transaction/services/interfaces/CardService.java

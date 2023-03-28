@@ -1,0 +1,6 @@
+/home/marioromeu/git-vr/mini-autorizador/event-processor/src/main/java/br/com/itads/processor/events/EventProcessorApplication.java
+/home/marioromeu/git-vr/mini-autorizador/event-processor/src/main/java/br/com/itads/processor/events/controller/impl/CardController.java
+/home/marioromeu/git-vr/mini-autorizador/event-processor/src/main/java/br/com/itads/processor/events/controller/interfaces/TransactionControllerInterface.java
+/home/marioromeu/git-vr/mini-autorizador/event-processor/src/main/java/br/com/itads/processor/events/controller/impl/TransactionController.java
+/home/marioromeu/git-vr/mini-autorizador/event-processor/src/main/java/br/com/itads/processor/events/services/MiniAuthFeignClient.java
+/home/marioromeu/git-vr/mini-autorizador/event-processor/src/main/java/br/com/itads/processor/events/controller/interfaces/CardControllerInterface.java
